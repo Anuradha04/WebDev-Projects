@@ -13,6 +13,7 @@ JavaScript: Become familiar with JavaScript. Learn functions, variables, and fun
 Document Object Model (DOM): JavaScript can be used to manipulate HTML components within the DOM. Understand how to add interactive elements, manage events, and alter text.
 
 Key: 
+
 c4 = connect four
 
 ttt = tic-tac-toe
